@@ -1,7 +1,0 @@
-Hello, text file here
-federick: why cant i see the file tree
-    whatever its not that important
-okay
-federick: testing the save function
-
-hellohe
